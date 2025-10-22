@@ -33,15 +33,15 @@
                 <a href="#" class="nav-link active">
                   <i class="nav-icon bi bi-speedometer"></i>
                   <p>
-                    Dashboard
+                    Adminstração
                     <i class="nav-arrow bi bi-chevron-right"></i>
                   </p>
                 </a>
                 <ul class="nav nav-treeview">
                   <li class="nav-item">
-                    <a href="./index.html" class="nav-link active">
-                      <i class="nav-icon bi bi-circle"></i>
-                      <p>Dashboard v1</p>
+                    <a href="{{route('users.index')}}" class="nav-link active">
+                      <i class="bi bi-people"></i>
+                      <p>Usuários</p>
                     </a>
                   </li>
                   <li class="nav-item">
