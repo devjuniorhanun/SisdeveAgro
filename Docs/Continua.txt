@@ -1,1 +1,1 @@
-https://www.udemy.com/course/laravel-pro-do-basico-ao-avancado/learn/lecture/46466077#overview
+php artisan make:model Registrations/Crops/AgriculturalYears -m
